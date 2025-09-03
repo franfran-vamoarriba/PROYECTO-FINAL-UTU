@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+1
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Formulario Ingreso Cliente</title>
+</head>
+<body>
+<form action="" name="tienda" method="post">
+<input type="text" name="nombre" placeholder="nombre">
+<input type="text" name="apellido" placeholder="apellido">
+<input type="mail" name="correo_electronico" placeholder="correo electronico">
+<input type="submit" name="Registrar">
+<input type="reset">
+</form>
+</body>
+</html>
